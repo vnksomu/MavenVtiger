@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31761" started-at="2020-08-02T09:10:54Z" finished-at="2020-08-02T09:11:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31761" started-at="2020-08-02T09:10:54Z" finished-at="2020-08-02T09:11:26Z">
+      <class name="com.vtiger.TestScripts.CreateOrganizationTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.vtiger.TestScripts.CreateOrganizationTest@6a4f787b]" name="configBS" is-config="true" duration-ms="16" started-at="2020-08-02T14:40:54Z" finished-at="2020-08-02T14:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.vtiger.TestScripts.CreateOrganizationTest@6a4f787b]" name="configBC" is-config="true" duration-ms="7453" started-at="2020-08-02T14:40:54Z" finished-at="2020-08-02T14:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vtiger.TestScripts.CreateOrganizationTest@6a4f787b]" name="configBM" is-config="true" duration-ms="4217" started-at="2020-08-02T14:41:02Z" finished-at="2020-08-02T14:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createOrganizationTest()[pri:0, instance:com.vtiger.TestScripts.CreateOrganizationTest@6a4f787b]" name="createOrganizationTest" duration-ms="17968" started-at="2020-08-02T14:41:06Z" finished-at="2020-08-02T14:41:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vtiger.TestScripts.CreateOrganizationTest@6a4f787b]" name="configAM" is-config="true" duration-ms="2089" started-at="2020-08-02T14:41:24Z" finished-at="2020-08-02T14:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vtiger.TestScripts.CreateOrganizationTest@6a4f787b]" name="configAC" is-config="true" duration-ms="2" started-at="2020-08-02T14:41:26Z" finished-at="2020-08-02T14:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAs()[pri:0, instance:com.vtiger.TestScripts.CreateOrganizationTest@6a4f787b]" name="configAs" is-config="true" duration-ms="1" started-at="2020-08-02T14:41:26Z" finished-at="2020-08-02T14:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAs -->
+      </class> <!-- com.vtiger.TestScripts.CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
